@@ -1,0 +1,20 @@
+JlPrep/
+│
+├── jlprep/
+│   ├── __init__.py
+│   ├── cleaning.py
+│   ├── encoding.py
+│   ├── quality.py
+│   └── visualization.py
+│
+├── tests/
+│   ├── test_encode_onehot.py
+│   ├── test_encode_label.py
+│   ├── test_remove_outliers.py
+│   ├── test_check_class_balance.py
+│   └── test_clean_missing.py
+│
+├── examples/
+│   └── basic_usage.py
+│
+├── README.md
